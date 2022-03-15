@@ -140,7 +140,8 @@ body {
 @media screen and (min-width: 40.375em) {
     .footer__addr {
         flex: 1 0px;
-    }
+
+@media screen and (min-width: 673) {
     .nav{
         display: grid;
         grid: auto;
